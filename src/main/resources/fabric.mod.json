@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "burnerz",
+  "version": "${version}",
+  "name": "Burnerz",
+  "description": "A lightweight server-side Fabric mod that allows server administrators to configure custom furnace fuels and burn times.",
+  "authors": ["EaZeeeHD"],
+  "license": "CC0-1.0",
+  "icon": "assets/burnerz/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": ["burnerz.Burnerz"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
