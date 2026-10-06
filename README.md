@@ -1,8 +1,13 @@
+<div align="center">
+
+<img src="src/main/resources/assets/burnerz/icon.png" width="220" alt="Burnerz Icon">
+
 # 🔥 Burnerz
 
 **Burnerz** is a lightweight, server-side Fabric mod that allows server administrators to configure custom furnace fuels and burn times.
-
 Turn almost any item into fuel using a simple JSON configuration file — no client installation required.
+
+</div>
 
 ## ✨ Features
 
